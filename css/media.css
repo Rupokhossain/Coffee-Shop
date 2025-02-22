@@ -1,0 +1,458 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	 /* nav start */
+            .nav-item .nav-link:hover{
+                display: inline-block;
+                padding: 8px 12px;
+        
+         }
+
+ /* banner start */
+ .banner {
+    height: 90vh;
+}
+.content {
+    padding-top: 40px;
+    margin-left: 25px;
+}
+
+.content h1 {
+    font-size: 30px;
+}
+.content p {
+    margin-top: 12px;
+}
+
+/* about start */
+.about {
+    padding: 50px 0 50px;
+}
+.about_text {
+    margin-bottom: 25px;
+}
+.a_text {
+    margin-top: 20px;
+}
+.a_text h1 {
+    font-size: 20px;
+
+}
+.a_text p{
+    font-size: 13px;
+}
+.about_btn {
+    width: 150px;
+}
+
+/* top card start */
+.top_card {
+    padding: 0 0 50px;
+}
+
+
+/* top card start */
+.top_card {
+    padding: 0 0 35px;
+}
+
+.c_img {
+    margin: 0 15px 20px;
+}
+
+
+/* menu start */
+.m_item {
+    margin: 20px 22px 0;
+}
+.menu_text h1 {
+    margin: 0 22px;
+}
+.menu_body {
+    padding: 0 20px 25px;
+}
+
+.menu_body h2 {
+    margin-top: 8px;
+    font-size: 22px;
+}
+
+/* gallery start */
+.gallery {
+    padding-top: 45px;
+}
+.gallery_text {
+    margin-bottom: 12px;
+}
+.gallery_text h1 {
+    font-size: 35px !important;
+}
+
+/* contact start */
+.contact {
+    padding: 40px 0;
+}
+.contact_body {
+    padding-bottom: 35px;
+}
+
+.contact_text {
+    margin: 25px 0 0 20px;
+}
+.contact_text h1 {
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+.contact_text p {
+    font-weight: 400;
+    padding-right: 60px;
+}
+.contact_text input {
+    width: 200px;
+}
+
+.contact_btn {
+    width: 200px;
+}
+
+.contact_info {
+    margin-top: 35px;
+    padding: 20px 0 5px 20px;
+}
+
+.contact_info p {
+    padding-top: 10px;
+}
+
+.contact_info p span {
+    margin-left: 12px;
+}
+
+
+/* blogs start */
+.bolgs {
+    padding-bottom: 40px;
+}
+
+.blog_text {
+    margin-bottom: 0px;
+}
+.blogs_container {
+    margin-top: 25px;
+}
+.blogs_body {
+    padding: 0px 0 18px 15px;
+}
+.blogs_body h2 {
+    margin: 10px 0;
+    font-size: 22px;
+}
+
+.blogs_body h4 {
+    font-size: 18px;
+}
+
+.blogs_body p {
+    margin: 5px 0 12px;
+}
+.blogsBtn {
+    width: 188px;
+
+}
+
+/* arrow start */
+.arrow {
+    bottom: 50px;
+    right: 0px;
+}
+.arrow img {
+    width: 40px;
+    height: 40px;
+}
+
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* nav start */
+        .nav-item .nav-link:hover{
+            display: inline-block;
+            padding: 8px 12px;
+    
+     }
+      /* banner start */
+ .banner {
+    height: 98vh;
+}
+.content {
+    padding-top: 50px;
+    margin-left: 42px;
+}
+
+.content h1 {
+    font-size: 40px;
+}
+
+/* about start */
+.about {
+    padding: 60px 0 70px;
+}
+.a_text h1 {
+    font-size: 24px;
+}
+.a_text p{
+    font-size: 14px;
+}
+.a_text {
+    margin-top: 30px
+}
+.about_btn {
+    width: 160px;
+}
+
+/* top card start */
+.top_card {
+    padding: 0 0 50px;
+}
+
+.c_img {
+    margin: 0 35px 30px;
+}
+
+
+/* menu start */
+.menu_text h1 {
+    margin: 0 22px;
+}
+.menu_body {
+    padding: 0 20px 25px;
+}
+
+
+/* gallery start */
+.gallery {
+    padding-top: 50px;
+}
+.gallery_text {
+    margin-bottom: 20px;
+}
+
+/* contact start */
+.contact {
+    padding: 50px 0;
+}
+
+.contact_text {
+    margin: 40px 0 0 30px;
+}
+.contact_text h1 {
+    margin-bottom: 8px;
+    font-size: 28px;
+}
+.contact_text p {
+    padding-right: 65px;
+}
+.contact_text input {
+    width: 340px;
+}
+
+.contact_btn {
+    width: 340px;
+}
+
+.contact_info {
+    margin-top: 45px;
+    padding: 27px 0 15px 25px;
+}
+
+.contact_info p {
+    padding-top: 12px;
+}
+
+/* blogs start */
+.bolgs {
+    padding-bottom: 50px;
+}
+
+.blog_text {
+    margin-bottom: 10px;
+}
+.blogs_container {
+    margin-top: 30px;
+}
+.blogs_body {
+    padding: 0px 0 18px 15px;
+}
+.blogs_body h2 {
+    margin: 10px 0;
+    font-size: 22px;
+}
+
+.blogs_body h4 {
+    font-size: 18px;
+}
+
+.blogs_body p {
+    margin: 5px 0 12px;
+}
+.blogsBtn {
+    width: 188px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* nav start */
+    .nav-item .nav-link:hover{
+        display: inline-block;
+        padding: 8px 12px;
+
+ }
+ /* banner start */
+ .banner {
+    height: 82vh;
+}
+.content {
+    padding-top: 85px;
+    margin-left: 45px;
+}
+
+.content h1 {
+    font-size: 45px;
+}
+/* about start */
+.about {
+    padding: 50px 0 60px;
+}
+.about_text {
+    margin-bottom: 40px;
+}
+.a_text h1 {
+    font-size: 24px;
+}
+.a_text p{
+    font-size: 15px;
+}
+
+/* top card start */
+.top_card {
+    padding: 0 0 60px;
+}
+
+.c_img {
+    margin: 0 45px 30px;
+}
+
+/* menu start */
+.menu_body {
+    padding: 0 20px 25px;
+}
+/* product start  */
+.product_img {
+    padding: 0 20px;
+}
+
+
+/* gallery start */
+.gallery {
+    padding-top: 60px;
+}
+.gallery_text {
+    margin-bottom: 20px;
+}
+
+
+/* contact start */
+.contact {
+    padding: 55px 0;
+}
+
+.contact_text {
+    margin: 50px 0 0 40px;
+}
+
+.contact_text input {
+    width: 340px;
+}
+
+.contact_btn {
+    width: 340px;
+}
+
+.contact_info {
+    margin-top: 65px;
+    padding: 27px 0 15px 25px;
+}
+
+.contact_info p {
+    padding-top: 12px;
+}
+
+/* blogs start */
+.bolgs {
+    padding-bottom: 55px;
+}
+
+.blog_text {
+    margin-bottom: 35px;
+}
+.blogs_body {
+    padding: 0px 0 18px 15px;
+}
+.blogs_body h2 {
+    margin: 10px 0;
+    font-size: 22px;
+}
+
+.blogs_body h4 {
+    font-size: 18px;
+}
+
+.blogs_body p {
+    margin: 5px 0 12px;
+}
+.blogsBtn {
+    width: 188px;
+
+}
+
+
+
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* blogs start  */
+    .blog_text {
+        margin-bottom: 45px;
+    }
+ }
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}	
